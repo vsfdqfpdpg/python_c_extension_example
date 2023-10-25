@@ -1,0 +1,6 @@
+dist/
+venv/
+build/
+.idea/
+cmake-build-debug/
+src/happy.egg-info/
